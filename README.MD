@@ -41,18 +41,18 @@ Ensure the data is in the correct format (3D arrays or images as specified by th
 ## Requirements
 See requirements.txt for a full list of dependencies. Main libraries include:
 
-numpy
-pandas
-torch
-scikit-learn
-tqdm
-jupyter
+- numpy
+- pandas
+- torch
+- scikit-learn
+- tqdm
+- jupyter
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you'd like to improve this project.
 
 
 ## Acknowledgements
-CZII - CryoET Object Identification: The Chan Zuckerberg Initiative sponsors this competition.
-PyTorch: For the deep learning framework used to build and train models.
-scikit-learn: For model evaluation and metrics.
+- CZII - CryoET Object Identification: The Chan Zuckerberg Initiative sponsors this competition.
+- PyTorch: For the deep learning framework used to build and train models.
+- scikit-learn: For model evaluation and metrics.
