@@ -32,6 +32,7 @@ Cryo-electron tomography (cryoET) creates 3D images of cells, providing detailed
    pip install -r requirements.txt
 
 3. Launch Jupyter Notebook for interactive development:
+   ```bash
     jupyter notebook
 
 
