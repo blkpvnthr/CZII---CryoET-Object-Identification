@@ -28,7 +28,7 @@ Cryo-electron tomography (cryoET) creates 3D images of cells, providing detailed
    cd cryoet-object-identification
 
 2. Install dependencies:
-   ```pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Launch Jupyter Notebook for interactive development:
     jupyter notebook
